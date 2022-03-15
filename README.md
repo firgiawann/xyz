@@ -21,3 +21,6 @@ python xyz.py
 • 01 Methode free (fast crack) <br>
 • 02 Methode mbasic (slow crack)<br>
 • 03 Methode mobile (very slow crack)<br>
+
+#### List Menu :<br>
+<img src="https://github.com/termux-xyz/xyz/blob/main/list_menu.png" width="640" title="Menu" alt="Menu">
