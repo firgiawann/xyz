@@ -1,4 +1,4 @@
-## XYZ-Brute
+## XYZ 
 Crack Facebook &amp; Instagram
 #### Link download termux : https://f-droid.org/repo/com.termux_117.apk jika sudah di download buka aplikasi nya, lalu install dengan ketikan perintah di bawah ini :
 ````bash
