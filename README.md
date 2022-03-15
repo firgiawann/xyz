@@ -6,14 +6,14 @@ pkg update && pkg upgrade -y
 pkg install python 
 pkg install git
 pkg install play-audio
-git clone https://github.com/Termux-XYZ/XYZ-Brute
-cd XYZ-Brute
+git clone https://github.com/Termux-XYZ/XYZ
+cd XYZ
 pip install -r module.txt
 ````
 
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
-cd XYZ-Brute
+cd XYZ
 python xyz.py
 ````
 
