@@ -14,7 +14,7 @@ pip install -r module.txt
 Jika semua sudah terinstall kalian tinggal jalankan script dengan ketikan perintah di bawah ini :
 ````bash
 cd xyz
-python xyz.py
+python xyz.pyc
 ````
 
 #### Methode crack :
